@@ -1,3 +1,9 @@
+# Fork
+### 修复[Android 9-目标SDK 28]后退按钮不起作用
+### issues: https://github.com/apache/cordova-plugin-splashscreen/issues/186
+### 参考：https://github.com/prageeth/cordova-plugin-splashscreen
+### 固定当前版本6.0.0
+
 ---
 title: Splashscreen
 description: Control the splash screen for your app.

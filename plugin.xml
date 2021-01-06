@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-splashscreen"
+        id="dfocus-fm-cordova-plugin-splashscreen"
         version="6.0.0">
     <name>Splashscreen</name>
     <description>Cordova Splashscreen Plugin</description>
