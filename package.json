@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-splashscreen",
+  "name": "dfocus-fm-cordova-plugin-splashscreen",
   "version": "5.0.4",
   "description": "Cordova Splashscreen Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-splashscreen",
+    "id": "dfocus-fm-cordova-plugin-splashscreen",
     "platforms": [
       "android",
       "ubuntu",
@@ -13,8 +13,11 @@
       "browser"
     ]
   },
-  "repository": "github:apache/cordova-plugin-splashscreen",
-  "bugs": "https://github.com/apache/cordova-plugin-splashscreen/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhushiyao/cordova-plugin-splashscreen.git"
+  },
+  "bugs": "https://github.com/zhushiyao/cordova-plugin-splashscreen.git/issues",
   "keywords": [
     "cordova",
     "splashscreen",
@@ -50,5 +53,5 @@
   "devDependencies": {
     "jshint": "^2.6.0"
   },
-  "homepage": "https://github.com/apache/cordova-plugin-splashscreen#readme"
+  "homepage": "https://github.com/zhushiyao/cordova-plugin-splashscreen.git#readme"
 }
